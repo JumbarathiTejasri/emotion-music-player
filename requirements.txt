@@ -1,0 +1,9 @@
+
+opencv-python
+tensorflow
+keras
+pygame
+numpy
+pyttsx3
+matplotlib
+fer
