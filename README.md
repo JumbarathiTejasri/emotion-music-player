@@ -75,6 +75,15 @@ python main.py
 
 ---
 
+
+## 🚪 How to Exit the App
+
+To quit the emotion music player safely:
+- Focus on the webcam window.
+- Press the **`q` key** on your keyboard.
+
+---
+
 ## 📝 Requirements
 
 ```
